@@ -1,0 +1,10 @@
+{
+  "name": "rabbitMQ",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
